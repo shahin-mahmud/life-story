@@ -1,4 +1,4 @@
 I am Shahin Mahmud from Galachipa, Patuakhali. I born in 1993. November. I have completed my HSC in 2011.
 . I have completed my ssc in 2009. My dream is to become a Java developer.
 I have started my java learning in 2019. I am trying to get a job. 
-logo size fixed.
+logo size fixed. done
